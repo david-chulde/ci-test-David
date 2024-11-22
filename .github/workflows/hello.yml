@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: Echo the message
         run: |
-          echo "HOLA MUNDO CON MI USUARIO EDISON DAVID Chulde  !"
+          echo "HOLA MUNDO CON MI USUARIO EDISON DAVID Chulde Pusda!"
       - name: Dime la fecha
         run: date
       - run: ls -l
